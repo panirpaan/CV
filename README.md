@@ -20,32 +20,31 @@
    - Mendesign sosial media perusahaan
 ---
 
-### Languages and Tools:
+### Skill:
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-
-[<img align="left" alt="Adobe Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Microsoft Office" width="30px" src="https://www.microsoft.com/id-id/CMSImages/office_symbol_wht_56x56.png?version=c87bc264-aaa4-34ef-9ebf-7e44cddd1528" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Adobe Photoshop" width="30px" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Microsoft Office" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png?20220617141445" style="padding-right:0px;" />][webdev]
 
 <br />
 <br />
 
 ---
-### Connect with me:
+### Sosial Media:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](hhttps://twitter.com/panirpaan#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/panirpaan#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muhamamd-irfan-maulana-b8204a196#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muhamamd-irfan-maulana-b8204a196#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/panirpaan/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/panirpaan/#gh-dark-mode-only)
+
+
+---
+### Portofolio:
+[![website](./img/gdrive.png)](https://drive.google.com/file/d/1L-i_V-zhHkk0y7mZdpx52MBNv0Ny7JBJ/view?usp=drive_link#gh-light-mode-only)
 
 
 
