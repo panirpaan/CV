@@ -14,10 +14,12 @@
    - Membuat iklan layanan masyarat
 
 ## Pengalaman Bekerja:
-#### 1. [Balai Besar Pelatihan Vokasi dan Produktivitas Medan ](https://bbplkmedan.kemnaker.go.id/) | Pelatihan Arstitektur | Medan `Jan 2023 - Maret 2023`
-   - Mendesign rumah type 70 dan rumah 2 lantai beserta membuat detail gambar kerja
-#### 2. [Wiraland](https://www.wiraland.com/) | Intern Graphic Design | Medan `2013 - Now`
+
+#### 1. [Wiraland](https://www.wiraland.com/) | Intern Graphic Design | Medan `2013 - Now`
    - Mendesign sosial media perusahaan
+#### 2. [Balai Besar Pelatihan Vokasi dan Produktivitas Medan ](https://bbplkmedan.kemnaker.go.id/) | Pelatihan Arstitektur | Medan `Jan 2023 - Maret 2023`
+   - Mendesign rumah type 70 dan rumah 2 lantai beserta membuat detail gambar kerja
+
 ---
 
 ### Skill:
