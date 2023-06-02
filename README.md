@@ -44,8 +44,11 @@
 
 ---
 ### Portofolio:
-[![website](./img/gdrive.png)](https://drive.google.com/file/d/1L-i_V-zhHkk0y7mZdpx52MBNv0Ny7JBJ/view?usp=drive_link#gh-light-mode-only)
+[<img align="left" alt="Gdrive" width="30px" src="https://cdn-icons-png.flaticon.com/512/250/250539.png?w=740&t=st=1685714549~exp=1685715149~hmac=b942b9fb0584c9f9380b99211caaeb35609e845bb8e0d60a7f1a6140a8bed20c" style="padding-right:10px;" />][webdevv]
 
 
 
 [webdev]: https://github.com/panirpaan/cv
+
+[webdevv]: https://drive.google.com/file/d/1L-i_V-zhHkk0y7mZdpx52MBNv0Ny7JBJ/view?usp=drive_lin
+
